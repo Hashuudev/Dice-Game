@@ -8,3 +8,12 @@ If the player rolls a 1, their turn ends and they receive no points for the turn
 
 # How-to-run
 To run the Pig Dice Game, simply open the index.html file in a web browser. No additional installation or setup is required.
+
+# Features
+This implementation of the Dice Game includes the following features:
+
+Two players take turns rolling a single die. Each player's turn total and total score are displayed. Players can choose to hold their turn total and add it to their total score. Rolling a 1 ends the player's turn and forfeits their turn total. The game automatically switches turns after each turn ends. The game ends and declares a winner when a player reaches a total score of 100 points.
+
+# Screenshot
+
+![1](https://github.com/Hashuudev/Dice-Game/assets/94761963/65f06a0e-ab78-4fdd-970d-d56e3a21cdda)
