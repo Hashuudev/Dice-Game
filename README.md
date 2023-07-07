@@ -1,5 +1,5 @@
 # Dice-Game
-This is a Web-based implementation of the classic Dice Game, created using HTML, CSS, and vanilla JavaScript.
+This is a Web-based implementation of the classic Dice Game, created using HTML, CSS, and vanilla JavaScript, an awesome challenge provided by Jonas Schmedtmann ( Instructor )
 
 # How-to-Play
 The objective of the game is to be the first player to reach a total score of 100 or more points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold" and end their turn:
